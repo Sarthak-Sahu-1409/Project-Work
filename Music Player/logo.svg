@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 78 24" aria-label="Sarthak" aria-hidden="false" height="24" data-encore-id="logoSarthak" class="Svg-sc-6c3c1v-0 dDJltW">
+  <title>Sarthak</title>
+  <g fill="none">
+    <rect x="0" y="0" width="78" height="24" rx="12" ry="12" fill="black"/>
+    <text x="15" y="16" font-family="Arial, sans-serif" font-size="12" fill="white">Player</text>
+    <g transform="translate(55, 4)">
+      <rect x="0" y="0" width="12" height="16" rx="2" ry="2" fill="white"/>
+      <circle cx="6" cy="8" r="3" fill="black"/>
+      <rect x="3" y="14" width="6" height="2" fill="black"/>
+    </g>
+  </g>
+</svg>
+
